@@ -1,0 +1,23 @@
+.photo-gallery {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+  }
+  
+  .year-section {
+    background: #222;
+    padding: 15px;
+    border-radius: 10px;
+  }
+  
+  .photo-card {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+  
+  .photo-card img {
+    width: 100px;
+    border-radius: 5px;
+  }
+  

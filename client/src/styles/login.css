@@ -1,0 +1,65 @@
+/* Styles généraux */
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: black;
+  }
+  
+  /* Conteneur principal */
+  .login-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+  }
+  
+  /* Boîte de connexion */
+  .login-box {
+    background: black;
+    padding: 20px;
+    text-align: center;
+    width: 300px;
+    border-radius: 10px;
+  }
+  
+  /* Titre */
+  .login-title {
+    color: white;
+    margin-bottom: 20px;
+  }
+  
+  /* Champs d'entrée */
+  .login-input {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid white;
+    background: black;
+    color: white;
+    border-radius: 5px;
+  }
+  
+  /* Bouton de connexion */
+  .login-button {
+    width: 100%;
+    padding: 10px;
+    background: hotpink;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+  
+  /* Lien vers inscription */
+  .register-link {
+    margin-top: 10px;
+    color: hotpink;
+    cursor: pointer;
+  }
+  
+  /* Message d'erreur */
+  .error-message {
+    color: red;
+    font-size: 14px;
+  }
+  

@@ -1,0 +1,43 @@
+.search-container {
+    max-width: 600px;
+    margin: auto;
+    padding: 20px;
+    color: white;
+  }
+  
+  .search-input {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid white;
+    background: black;
+    color: white;
+    border-radius: 5px;
+  }
+  
+  .search-results {
+    background: #222;
+    padding: 15px;
+    border-radius: 10px;
+    margin-top: 10px;
+  }
+  
+  .search-user-card {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background: #333;
+    padding: 10px;
+    border-radius: 5px;
+  }
+  
+  .search-user-card button {
+    background: hotpink;
+    border: none;
+    padding: 5px;
+    color: white;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+
+  

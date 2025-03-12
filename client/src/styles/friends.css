@@ -1,0 +1,13 @@
+.friends-container {
+    max-width: 600px;
+    margin: auto;
+    padding: 20px;
+    color: white;
+  }
+  
+  .friends-list {
+    background: #222;
+    padding: 15px;
+    border-radius: 10px;
+  }
+  

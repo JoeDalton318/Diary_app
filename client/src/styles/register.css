@@ -1,0 +1,84 @@
+/* Conteneur principal */
+.register-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background: black;
+  }
+  
+  /* Boîte d'inscription */
+  .register-box {
+    background: black;
+    padding: 20px;
+    text-align: center;
+    width: 300px;
+    border-radius: 10px;
+  }
+  
+  /* Titre */
+  .register-title {
+    color: hotpink;
+    margin-bottom: 20px;
+  }
+  
+  /* Champs d'entrée */
+  .register-input {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid hotpink;
+    background: black;
+    color: hotpink;
+    border-radius: 5px;
+  }
+  
+  /* Bouton d'inscription */
+  .register-button {
+    width: 100%;
+    padding: 10px;
+    background: hotpink;
+    color: black;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+  
+  /* Lien vers la connexion */
+  .login-link {
+    margin-top: 10px;
+    color: hotpink;
+    cursor: pointer;
+  }
+  
+  /* Message d'erreur */
+  .error-message {
+    color: red;
+    font-size: 14px;
+  }
+  .avatar-label {
+    display: block;
+    margin-top: 10px;
+    color: hotpink;
+    font-size: 14px;
+  }
+  
+  .register-file-input {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    background: black;
+    color: hotpink;
+    border: 1px solid hotpink;
+    border-radius: 5px;
+  }
+  
+  .avatar-preview {
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+    border-radius: 50%;
+    margin-top: 10px;
+    display: block;
+  }
+  
