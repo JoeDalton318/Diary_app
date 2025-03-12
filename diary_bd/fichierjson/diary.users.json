@@ -1,0 +1,261 @@
+[
+{
+  "_id": {
+    "$oid": "67d04a55ae5cafdd87738cd3"
+  },
+  "pseudo": "Lindsay5",
+  "password": "sORJRupY4ayUHd1",
+  "email": "Kolby_Fahey24@gmail.com",
+  "avatar": "https://avatars.githubusercontent.com/u/90398489",
+  "createdAt": {
+    "$date": "2024-09-23T21:16:38.234Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67d04a55ae5cafdd87738cd4"
+  },
+  "pseudo": "Prudence.Hirthe52",
+  "password": "iKmQnhvB2RAPm7o",
+  "email": "Jeff.Batz67@gmail.com",
+  "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/512/5.jpg",
+  "createdAt": {
+    "$date": "2024-04-03T07:20:04.432Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67d04a55ae5cafdd87738cd5"
+  },
+  "pseudo": "Shyanne.Padberg",
+  "password": "Hb1PSXKZ7CKMJdl",
+  "email": "Suzanne.Adams10@yahoo.com",
+  "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/512/25.jpg",
+  "createdAt": {
+    "$date": "2024-08-18T05:43:21.962Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67d04a55ae5cafdd87738cd6"
+  },
+  "pseudo": "Ewell.Beatty-Kuhn",
+  "password": "0o8EgSLuXmBNZCk",
+  "email": "Frances_Streich6@yahoo.com",
+  "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/512/49.jpg",
+  "createdAt": {
+    "$date": "2024-07-26T04:08:40.086Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67d04a55ae5cafdd87738cd7"
+  },
+  "pseudo": "Roxane_Nikolaus69",
+  "password": "SvkjTnwEh5sHGj3",
+  "email": "Eladio42@yahoo.com",
+  "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/512/69.jpg",
+  "createdAt": {
+    "$date": "2024-12-29T16:24:20.944Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67d04a55ae5cafdd87738cd8"
+  },
+  "pseudo": "Abigale79",
+  "password": "eeUP9UKJEEUD32d",
+  "email": "Chelsea_Bergstrom@hotmail.com",
+  "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/512/18.jpg",
+  "createdAt": {
+    "$date": "2025-01-18T03:37:57.928Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67d04a55ae5cafdd87738cd9"
+  },
+  "pseudo": "Filiberto97",
+  "password": "cQw4pqiXapS4JGa",
+  "email": "Jana76@gmail.com",
+  "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/512/69.jpg",
+  "createdAt": {
+    "$date": "2025-03-03T02:57:28.803Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67d04a55ae5cafdd87738cda"
+  },
+  "pseudo": "Raphael35",
+  "password": "fFUQYB9rnt_Ch51",
+  "email": "Imogene.Flatley@yahoo.com",
+  "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/512/98.jpg",
+  "createdAt": {
+    "$date": "2024-08-19T18:07:11.751Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67d04a55ae5cafdd87738cdb"
+  },
+  "pseudo": "Nola_Pagac",
+  "password": "BAWUFoGykHjKtA5",
+  "email": "Hilbert19@hotmail.com",
+  "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/512/3.jpg",
+  "createdAt": {
+    "$date": "2024-04-14T06:51:00.057Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67d04a55ae5cafdd87738cdc"
+  },
+  "pseudo": "Taya_Blick",
+  "password": "3DHUKO4tHus17Bp",
+  "email": "Sydney.Ernser@gmail.com",
+  "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/512/25.jpg",
+  "createdAt": {
+    "$date": "2024-08-12T14:02:25.861Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67d04a7afc6d546e01460695"
+  },
+  "pseudo": "Kailey_Kuvalis",
+  "password": "PEyve2PkXRPrplW",
+  "email": "Arely33@yahoo.com",
+  "avatar": "https://avatars.githubusercontent.com/u/79625839",
+  "createdAt": {
+    "$date": "2024-04-13T15:27:27.317Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67d04a7afc6d546e01460696"
+  },
+  "pseudo": "Jamarcus_Russel10",
+  "password": "5CyMR4pjtghmMbm",
+  "email": "Ross27@hotmail.com",
+  "avatar": "https://avatars.githubusercontent.com/u/47005351",
+  "createdAt": {
+    "$date": "2024-09-10T23:19:51.753Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67d04a7afc6d546e01460697"
+  },
+  "pseudo": "Nakia.Senger",
+  "password": "GTB5lQktR4W_W8M",
+  "email": "Eloise38@yahoo.com",
+  "avatar": "https://avatars.githubusercontent.com/u/18315336",
+  "createdAt": {
+    "$date": "2025-02-05T06:38:54.973Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67d04a7afc6d546e01460698"
+  },
+  "pseudo": "Archibald_Gibson",
+  "password": "UUT3kO9O4rqXdT4",
+  "email": "Nico48@gmail.com",
+  "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/512/10.jpg",
+  "createdAt": {
+    "$date": "2024-07-29T01:06:44.102Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67d04a7afc6d546e01460699"
+  },
+  "pseudo": "Carolina_Farrell",
+  "password": "9CpuHKDFSyf4akV",
+  "email": "Janelle_Paucek36@gmail.com",
+  "avatar": "https://avatars.githubusercontent.com/u/21503451",
+  "createdAt": {
+    "$date": "2024-05-26T13:52:17.823Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67d04a7afc6d546e0146069a"
+  },
+  "pseudo": "Enid73",
+  "password": "uLRAFBa52R1Lho0",
+  "email": "Jerrod_Maggio@yahoo.com",
+  "avatar": "https://avatars.githubusercontent.com/u/85901299",
+  "createdAt": {
+    "$date": "2025-01-17T03:34:07.540Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67d04a7afc6d546e0146069b"
+  },
+  "pseudo": "Greg.Bauch",
+  "password": "pcjHDErqRd9WrGS",
+  "email": "Mekhi30@yahoo.com",
+  "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/512/19.jpg",
+  "createdAt": {
+    "$date": "2024-09-13T14:38:53.196Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67d04a7afc6d546e0146069c"
+  },
+  "pseudo": "Lina.Hand-Feeney54",
+  "password": "hhWibRSn2I73X4O",
+  "email": "Ottis_Bashirian57@yahoo.com",
+  "avatar": "https://avatars.githubusercontent.com/u/86987246",
+  "createdAt": {
+    "$date": "2024-06-16T13:22:16.679Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67d04a7afc6d546e0146069d"
+  },
+  "pseudo": "Gudrun.Emard",
+  "password": "WSr3TNC5kLhh6s0",
+  "email": "Cleveland_Pouros44@hotmail.com",
+  "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/512/0.jpg",
+  "createdAt": {
+    "$date": "2025-02-06T14:22:10.900Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67d04a7afc6d546e0146069e"
+  },
+  "pseudo": "Calista_Bruen3",
+  "password": "MG_g3ix9S4xc7Am",
+  "email": "Myriam45@yahoo.com",
+  "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/512/45.jpg",
+  "createdAt": {
+    "$date": "2024-06-05T22:34:40.678Z"
+  },
+  "__v": 0
+}]

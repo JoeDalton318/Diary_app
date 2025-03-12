@@ -2,7 +2,7 @@ import mongoose from "mongoose";
 import Joi from "joi";
 
 const userSchema = new mongoose.Schema({
-  username: {
+  pseudo: {
     type: String,
     required: true,
     unique: true,
@@ -18,7 +18,7 @@ const userSchema = new mongoose.Schema({
     unique: true,
     trim: true,
   },
-  image: {
+  avatar: {
     type: String,
     required: false,
   },
@@ -31,7 +31,7 @@ const userSchema = new mongoose.Schema({
 const User = mongoose.model("User", userSchema);
 
 const userValidationSchema = Joi.object({
-  username: Joi.string().required().trim().messages({
+  pseudo: Joi.string().required().trim().messages({
     "string.empty": "Le nom d'utilisateur est obligatoire",
   }),
   password: Joi.string().required().min(6).messages({
@@ -42,7 +42,7 @@ const userValidationSchema = Joi.object({
     "string.empty": "L'email est obligatoire",
     "string.email": "L'email n'est pas valide",
   }),
-  image: Joi.string().allow("").optional(), // Image optionnelle
+  avatar: Joi.string().allow("").optional(), // Image optionnelle
 });
 
 const userValidation = (data) => {

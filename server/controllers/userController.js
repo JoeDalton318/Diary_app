@@ -10,7 +10,9 @@ const registerUser = asyncHandler(async (req, res) => {
     return res.status(400).json({ message: error.details[0].message });
   }
 
-  const { username, email, password, image } = req.body;
+  const { pseudo, email, password } = req.body;
+  const avatar = req.file ? `/uploads/${req.file.filename}` : "";
+
 
   const existingUser = await User.findOne({ email });
   if (existingUser) {
@@ -21,10 +23,10 @@ const registerUser = asyncHandler(async (req, res) => {
   const hashedPassword = await bcrypt.hash(password, salt);
 
   const newUser = new User({
-    username,
+    pseudo,
     email,
     password: hashedPassword,
-    image,
+    avatar,
   });
   const savedUser = await newUser.save();
 
@@ -70,7 +72,7 @@ const loginUser = asyncHandler(async (req, res) => {
 
 // Fonction pour récupérer l'utilisateur connecté
 const getUser = asyncHandler(async (req, res) => {
-  const user = await User.findById(req.user).select("-password");
+  const user = await User.findById(req.params.id).select("-password");
   if (!user) {
     return res.status(404).json({ message: "Utilisateur non trouvé." });
   }

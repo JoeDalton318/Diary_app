@@ -1,0 +1,80 @@
+[{
+  "_id": {
+    "$oid": "67d04977c9e1eb0291a7fce6"
+  },
+  "name": "Joie",
+  "icon": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/512/10.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67d04977c9e1eb0291a7fce7"
+  },
+  "name": "Tristesse",
+  "icon": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/512/16.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67d04977c9e1eb0291a7fce8"
+  },
+  "name": "Colère",
+  "icon": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/512/42.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67d04977c9e1eb0291a7fce9"
+  },
+  "name": "Surprise",
+  "icon": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/512/39.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67d04977c9e1eb0291a7fcea"
+  },
+  "name": "Peur",
+  "icon": "https://avatars.githubusercontent.com/u/68311593",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67d04977c9e1eb0291a7fceb"
+  },
+  "name": "Dégoût",
+  "icon": "https://avatars.githubusercontent.com/u/28103003",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67d04977c9e1eb0291a7fcec"
+  },
+  "name": "Excitation",
+  "icon": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/512/51.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67d04977c9e1eb0291a7fced"
+  },
+  "name": "Calme",
+  "icon": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/512/57.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67d04977c9e1eb0291a7fcee"
+  },
+  "name": "Amour",
+  "icon": "https://avatars.githubusercontent.com/u/92549491",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67d04977c9e1eb0291a7fcef"
+  },
+  "name": "Honte",
+  "icon": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/512/1.jpg",
+  "__v": 0
+}]
